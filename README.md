@@ -7,9 +7,9 @@
 </h3>
 
 <div align="center">
-  <a href="https://leetcode.com/u/offbeatash/">
-    <img src="https://img.shields.io/badge/LeetCode-offbeatash-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-offbeatash-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/cMv94w7jU3/)
+
 </div>
 
 <br>
@@ -28,9 +28,10 @@
 
 <br>
 
-### 💻 Repository Intelligence
+### 💻 Technologies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offbeatash&repo=leetcode-DSA&theme=tokyonight&hide_border=true&layout=compact&title_color=38bdae" alt="Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
 <br>
@@ -45,7 +46,7 @@ Since this is synced via LeetHub:
 <br>
 
 <div align="center">
-  <a href="https://leetcode.com/u/offbeatash/">
-    <img src="https://img.shields.io/badge/View_Profile_on_LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
+
+[![View Profile](https://img.shields.io/badge/View_Profile_on_LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/cMv94w7jU3/)
+
 </div>
