@@ -1,17 +1,17 @@
-from typing import List
-
 MOD = 10**9 + 7
 
 class Solution:
-    def countPermutations(self, complexity: List[int]) -> int:
+    def countPermutations(self, complexity):
         n = len(complexity)
 
-        for i in range(1, n):
-            if complexity[i] <= complexity[0]:
+        c0 = complexity[0]
+        for v in complexity[1:]:
+            if v <= c0:
                 return 0
 
         res = 1
+        mod = MOD
         for x in range(1, n):
-            res = res * x % MOD
+            res = (res * x) % mod
 
         return res
