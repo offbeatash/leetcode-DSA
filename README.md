@@ -50,3 +50,15 @@ Since this is synced via LeetHub:
 [![View Profile](https://img.shields.io/badge/View_Profile_on_LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/cMv94w7jU3/)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/offbeatash/leetcode-DSA/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/offbeatash/leetcode-DSA/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
