@@ -69,4 +69,8 @@ Since this is synced via LeetHub:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/offbeatash/leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/offbeatash/leetcode-DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
