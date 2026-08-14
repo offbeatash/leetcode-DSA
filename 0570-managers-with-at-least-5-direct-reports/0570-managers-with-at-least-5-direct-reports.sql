@@ -1,8 +1,7 @@
-SELECT name
-FROM Employee
-WHERE id IN (
-    SELECT managerId
-    FROM Employee
-    GROUP BY managerId
-    HAVING COUNT(*) >= 5
-);
+/* Write your T-SQL query statement below */
+SELECT m.name
+FROM Employee e
+JOIN Employee m
+ON e.managerId = m.id
+GROUP BY m.id, m.name
+HAVING COUNT(*) >= 5;
