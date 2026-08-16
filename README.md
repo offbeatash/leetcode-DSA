@@ -19,7 +19,7 @@
   Every accepted submission is automatically pushed here via LeetHub.
 </p>
 
----
+-----
 
 ### 📊 Live LeetCode Stats
 
