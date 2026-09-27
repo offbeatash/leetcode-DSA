@@ -1,11 +1,25 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        n = len(s1)
+        if len(s1) > len(s2):
+            return False
 
-        for i in range(len(s2)-n+1):
-            substring = s2[i:i+n]
+        need = Counter(s1)
+        window = Counter()
 
-            if Counter(substring) == Counter(s1):
+        left = 0
+
+        for right in range(len(s2)):
+            window[s2[right]] += 1
+
+            if right - left + 1 > len(s1):
+                window[s2[left]] -= 1
+
+                if window[s2[left]] == 0:
+                    del window[s2[left]]
+
+                left += 1
+
+            if window == need:
                 return True
-            
+
         return False
